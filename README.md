@@ -7,7 +7,7 @@ to provide accurate, grounded troubleshooting guidance.
 
 > Built as a Major Project by a group of 4 students.
 
----
+
 
 ## 🔍 What It Does
 
@@ -21,6 +21,3 @@ machine manuals and fault logs, and generates step-by-step repair instructions.
 
 ---
 
-## 📄 License
-
-MIT License — free to use for academic purposes.
