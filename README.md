@@ -9,7 +9,7 @@ to provide accurate, grounded troubleshooting guidance.
 
 
 
-## 🔍 What It Does
+## 🔍 What It Does?
 
 A technician can:
 - 📷 Upload a photo of a faulty machine
