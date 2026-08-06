@@ -19,5 +19,5 @@ A technician can:
 The system analyzes all three inputs, searches a knowledge base of 
 machine manuals and fault logs, and generates step-by-step repair instructions.
 
----
+----
 
