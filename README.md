@@ -7,8 +7,11 @@ to provide accurate, grounded troubleshooting guidance.
 
 > Built as a Major Project by a group of 4 students.
 > 1 - https://github.com/thakursinghsurya300-boop
+> 
 > 2 - https://github.com/Sumitda12
+> 
 > 3 - https://github.com/Shubhag21
+> 
 > 4 - https://github.com/Sohamdp10-code
 
 
