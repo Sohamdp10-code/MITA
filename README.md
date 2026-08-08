@@ -6,6 +6,7 @@ Computer Vision, Voice Recognition, and RAG (Retrieval-Augmented Generation)
 to provide accurate, grounded troubleshooting guidance.
 
 > Built as a Major Project by a group of 4 students.
+> 
 > 1 - https://github.com/thakursinghsurya300-boop
 > 
 > 2 - https://github.com/Sumitda12
